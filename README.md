@@ -18,7 +18,7 @@ I’m a **Computer Science student** with a passion for **problem-solving** and 
 I aim to develop **AI-driven solutions** that make a tangible impact—whether by enhancing business efficiency or creating intuitive user experiences. My goal is to contribute to meaningful projects that challenge me to think critically, solve problems, and drive real progress.  
 
 ## 💡 Let’s Connect!  
-- 💼 [LinkedIn](www.linkedin.com/in/a-raheem-faruki)  
+- 💼 [LinkedIn](https://linkedin.com/in/a-raheem-faruki)  
 - 📫 a.raheemfaruki@gmail.com  
 
 I’m excited to collaborate on projects that value **creativity** and **innovation**—let’s build something amazing together!
